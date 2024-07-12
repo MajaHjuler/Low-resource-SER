@@ -1,6 +1,6 @@
 # Low-resource-SER
 
-This repository contains code to reproduce the results from my thesis on _Speech Emotion Recognition for low-Resource Languages_.
+This repository contains code to reproduce the results from my thesis: _Speech Emotion Recognition for low-Resource Languages_.
 
 | Contents                                     | Notebook                                                                                                                                                                                                            |
 |------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
