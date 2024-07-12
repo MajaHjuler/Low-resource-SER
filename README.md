@@ -12,4 +12,4 @@ The first notebook contains the main results from my three research questions an
 
 The second notebook contains the code for fine-tuning a pre-trained wav2vec 2.0 model for Danish SER and can be run on a GPU, e.g. Tesla T4 in Colab. To run the code, you need access to the EmoTale dataset. The code was adapted from [Emotion_recognition_in_Greek_speech_using_Wav2Vec2.ipynb](https://github.com/m3hrdadfi/soxan/blob/main/notebooks/Emotion_recognition_in_Greek_speech_using_Wav2Vec2.ipynb).
 
-The LIME analysis in RQ2 was adapted from the [CoughLIME](https://github.com/glam-imperial/CoughLIME) code base.
+The LIME analysis in RQ2 was adapted from [CoughLIME](https://github.com/glam-imperial/CoughLIME).
